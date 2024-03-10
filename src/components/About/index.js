@@ -27,9 +27,25 @@ const About = () => {
                             idx={15}
                         />
                     </h1>
-                    <p>Paragraph about how ambitious I am about programming.</p>
-                    <p>Paragraph about how confident I am about programming.</p>
-                    <p>Define myself in one sentence.</p>
+                    <p>
+                        I have been programming ever since my senior year of
+                        high school. I am now profficient in a few different
+                        languages including Python, Java, JavaScript, C/C++, and
+                        eager to learn more!
+                    </p>
+                    <p>
+                        Because of my college education in computer science, I
+                        feel very confident about learning new languages and
+                        technologies with ease. With each new challenge, I can
+                        always fall back to what I learned in my education to
+                        understand what's ahead of me.
+                    </p>
+                    <p>
+                        If I were to define myself in one scentence, it would go
+                        something like this: Adventurous and ambitious learner
+                        who always looks for exciting and new opportunities to
+                        connect with others.
+                    </p>
                 </div>
 
                 <div className="stage-cube-cont">

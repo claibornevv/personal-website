@@ -32,8 +32,9 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        Paragraph about opportunities I am excited to
-                        discuss/take-on
+                        I am currently searching for a career in Software
+                        Engineering! I would love to discuss any potential
+                        opportunities so feel free to get in touch with me!
                     </p>
                     <div className="contact-form">
                         <form>
