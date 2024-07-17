@@ -25,7 +25,7 @@ const projects = [
         name: 'Snake Game',
         description: 'Simple snake game implemented in python',
         stack: ['Python'],
-        sourceCode: 'https://github.com/claibornevv/snake-game',
+        sourceCode: 'https://github.com/claibornevv/python_snake',
     }
 ]
 
