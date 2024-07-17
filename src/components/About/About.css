@@ -14,7 +14,8 @@
   .about__desc {
     font-size: 1rem;
     max-width: 600px;
-    background-color: #2a2f4c;
+    background-color: var(--clr-bg-alt);
+    box-shadow: var(--shadow);
     border-radius: 10px;
     padding: 10px;
     text-align: center;

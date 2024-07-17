@@ -7,7 +7,7 @@ const about = {
     name: 'Claiborne Van Voorhis',
     role: 'Software Engineer',
     description: 'Highly motivated and detailed-oriented recent graduate from the College of William and Mary with a Bachelor of Science in Computer Science. Proven proficiency in software development, algorithms, and data structures, completed by hands-on experience through academic and personal projects. Skilled in multiple programming languages including Python, Java, C++, and more with a strong foundation in software engineering principles. Demonstrated ability to collaborate effectively in team environments and adapt quickly to new technologies. Seeking an entry-level Software Engineering position to leverage my technical skills and contribute to innovative projects.',
-    resume: 'resume link here',
+    resume: `${process.env.PUBLIC_URL}/Claiborne_Van_Voorhis_resume_2024.pdf`,
     social: {
         linkedin: 'https://linkedin.com/claiborne-van-voorhis',
         github: 'https://github.com/claibornevv',
