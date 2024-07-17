@@ -24,8 +24,14 @@ const projects = [
     {
         name: 'Snake Game',
         description: 'Simple snake game implemented in python',
-        stack: ['Python'],
+        stack: ['Python', 'PyGame'],
         sourceCode: 'https://github.com/claibornevv/python_snake',
+    },
+    {
+        name: 'React App',
+        description: 'Personal website created using React.js',
+        stack: ['React.js', 'HTML', 'CSS'],
+        sourceCode: 'https://github.com/claibornevv/personal-website',
     }
 ]
 
