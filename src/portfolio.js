@@ -60,7 +60,6 @@ const skills = [
     'Docker-Compose',
     'Agile',
     'Microsoft Office Suite',
-    'Communication',
 ]
 
 const contact = {
